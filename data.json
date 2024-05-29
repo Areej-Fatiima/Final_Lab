@@ -1,0 +1,985 @@
+{
+  "Quiz1": [
+    {
+      "question": "What is the Urdu meaning of the English word 'book'?",
+      "options": {
+        "1": "قلم",
+        "2": "میز",
+        "3": "کتاب",
+        "4": "کرسی"
+      },
+      "correct_option": "3",
+      "category": "Urdu"
+    },
+    {
+      "question": "What is the Urdu meaning of the English word 'water'?",
+      "options": {
+        "1": "پانی",
+        "2": "ہوا",
+        "3": "چاند",
+        "4": "سورج"
+      },
+      "correct_option": "1",
+      "category": "Urdu"
+    },
+    {
+      "question": "What is the Urdu meaning of the English word 'friend'?",
+      "options": {
+        "1": "دوست",
+        "2": "دشمن",
+        "3": "برادر",
+        "4": "معلم"
+      },
+      "correct_option": "1",
+      "category": "Urdu"
+    },
+    {
+      "question": "What is the Urdu meaning of the English word 'thank you'?",
+      "options": {
+        "1": "خدا حافظ",
+        "2": "شکریہ",
+        "3": "معاف کیجئے",
+        "4": "خوش آمدید"
+      },
+      "correct_option": "2",
+      "category": "Urdu"
+    },
+    {
+      "question": "What is the Urdu meaning of the English word 'goodbye'?",
+      "options": {
+        "1": "خدا حافظ",
+        "2": "سلامت رہیں",
+        "3": "مرحبا",
+        "4": "نہیں"
+      },
+      "correct_option": "1",
+      "category": "Urdu"
+    },
+    {
+      "question": "What is the Urdu meaning of the English word 'sun'?",
+      "options": {
+        "1": "ماہتاب",
+        "2": "آفتاب",
+        "3": "چاند",
+        "4": "طلوع"
+      },
+      "correct_option": "2",
+      "category": "Urdu"
+    },
+    {
+      "question": "What is the Urdu meaning of the English word 'moon'?",
+      "options": {
+        "1": "گلو",
+        "2": "چاند",
+        "3": "رات",
+        "4": "صبح"
+      },
+      "correct_option": "2",
+      "category": "Urdu"
+    },
+    {
+      "question": "What is the Urdu meaning of the English word 'tree'?",
+      "options": {
+        "1": "پودا",
+        "2": "درخت",
+        "3": "گچھا",
+        "4": "جھاڑی"
+      },
+      "correct_option": "2",
+      "category": "Urdu"
+    },
+    {
+      "question": "What is the Urdu meaning of the English word 'thank you'?",
+      "options": {
+        "1": "خدا حافظ",
+        "2": "شکریہ",
+        "3": "معاف کیجئے",
+        "4": "خوش آمدید"
+      },
+      "correct_option": "2",
+      "category": "Urdu"
+    },
+    {
+      "question": "What is the Urdu meaning of the English word 'color'?",
+      "options": {
+        "1": "رنگ",
+        "2": "سفید",
+        "3": "سیاہ",
+        "4": "خونی"
+      },
+      "correct_option": "1",
+      "category": "Urdu"
+    },
+    {
+      "question": "What is the Turkish meaning of the English word 'book'?",
+      "options": {
+        "1": "Kalem",
+        "2": "Kitap",
+        "3": "Masa",
+        "4": "Sandalye"
+      },
+      "correct_option": "2",
+      "category": "Turkish"
+    },
+    {
+      "question": "What is the Turkish meaning of the English word 'hello'?",
+      "options": {
+        "1": "Merhaba",
+        "2": "Nasılsın",
+        "3": "Teşekkür ederim",
+        "4": "Güle güle"
+      },
+      "correct_option": "1",
+      "category": "Turkish"
+    },
+    {
+      "question": "What is the Turkish meaning of the English word 'thank you'?",
+      "options": {
+        "1": "Güle güle",
+        "2": "Merhaba",
+        "3": "Teşekkür ederim",
+        "4": "Hoşça kal"
+      },
+      "correct_option": "3",
+      "category": "Turkish"
+    },
+    {
+      "question": "What is the Turkish meaning of the English word 'yes'?",
+      "options": {
+        "1": "Evet",
+        "2": "Hayır",
+        "3": "Belki",
+        "4": "Asla"
+      },
+      "correct_option": "1",
+      "category": "Turkish"
+    },
+    {
+      "question": "What is the Turkish meaning of the English word 'no'?",
+      "options": {
+        "1": "Evet",
+        "2": "Hayır",
+        "3": "Belki",
+        "4": "Asla"
+      },
+      "correct_option": "2",
+      "category": "Turkish"
+    },
+    {
+      "question": "What is the Turkish meaning of the English word 'please'?",
+      "options": {
+        "1": "Lütfen",
+        "2": "Merhaba",
+        "3": "Teşekkür ederim",
+        "4": "Güle güle"
+      },
+      "correct_option": "1",
+      "category": "Turkish"
+    },
+    {
+      "question": "What is the Turkish meaning of the English word 'thank you'?",
+      "options": {
+        "1": "Güle güle",
+        "2": "Merhaba",
+        "3": "Teşekkür ederim",
+        "4": "Hoşça kal"
+      },
+      "correct_option": "3",
+      "category": "Turkish"
+    },
+    {
+      "question": "What is the Turkish meaning of the English word 'goodbye'?",
+      "options": {
+        "1": "Güle güle",
+        "2": "Merhaba",
+        "3": "Teşekkür ederim",
+        "4": "Hoşça kal"
+      },
+      "correct_option": "1",
+      "category": "Turkish"
+    },
+    {
+      "question": "What is the Turkish meaning of the English word 'please'?",
+      "options": {
+        "1": "Lütfen",
+        "2": "Merhaba",
+        "3": "Teşekkür ederim",
+        "4": "Güle güle"
+      },
+      "correct_option": "1",
+      "category": "Turkish"
+    },
+    {
+      "question": "What is the Japanese meaning of the English word 'book'?",
+      "options": {
+        "1": "本",
+        "2": "机",
+        "3": "椅子",
+        "4": "ペン"
+      },
+      "correct_option": "1",
+      "category": "Japanese"
+    },
+    {
+      "question": "What is the Japanese meaning of the English word 'hello'?",
+      "options": {
+        "1": "こんにちは",
+        "2": "さようなら",
+        "3": "ありがとう",
+        "4": "おはようございます"
+      },
+      "correct_option": "1",
+      "category": "Japanese"
+    },
+    {
+      "question": "What is the Japanese meaning of the English word 'thank you'?",
+      "options": {
+        "1": "ありがとう",
+        "2": "こんにちは",
+        "3": "さようなら",
+        "4": "おはようございます"
+      },
+      "correct_option": "1",
+      "category": "Japanese"
+    },
+    {
+      "question": "What is the Japanese meaning of the English word 'yes'?",
+      "options": {
+        "1": "はい",
+        "2": "いいえ",
+        "3": "たぶん",
+        "4": "だめ"
+      },
+      "correct_option": "1",
+      "category": "Japanese"
+    },
+    {
+      "question": "What is the Japanese meaning of the English word 'no'?",
+      "options": {
+        "1": "はい",
+        "2": "いいえ",
+        "3": "たぶん",
+        "4": "だめ"
+      },
+      "correct_option": "2",
+      "category": "Japanese"
+    },
+    {
+      "question": "What is the Japanese meaning of the English word 'goodbye'?",
+      "options": {
+        "1": "さようなら",
+        "2": "こんにちは",
+        "3": "ありがとう",
+        "4": "おはようございます"
+      },
+      "correct_option": "1",
+      "category": "Japanese"
+    },
+    {
+      "question": "What is the Japanese meaning of the English word 'please'?",
+      "options": {
+        "1": "お願いします",
+        "2": "こんにちは",
+        "3": "ありがとう",
+        "4": "さようなら"
+      },
+      "correct_option": "1",
+      "category": "Japanese"
+    },
+    {
+      "question": "What is the Japanese meaning of the English word 'water'?",
+      "options": {
+        "1": "水",
+        "2": "火",
+        "3": "土",
+        "4": "風"
+      },
+      "correct_option": "1",
+      "category": "Japanese"
+    },
+    {
+      "question": "What is the Japanese meaning of the English word 'moon'?",
+      "options": {
+        "1": "月",
+        "2": "太陽",
+        "3": "星",
+        "4": "夜"
+      },
+      "correct_option": "1",
+      "category": "Japanese"
+    },
+    {
+      "question": "What is the Japanese meaning of the English word 'sun'?",
+      "options": {
+        "1": "太陽",
+        "2": "月",
+        "3": "星",
+        "4": "夜"
+      },
+      "correct_option": "1",
+      "category": "Japanese"
+    },
+    {
+      "question": "What is the Arabic meaning of the English word 'house'?",
+      "options": {
+        "1": "قلم",
+        "2": "بيت",
+        "3": "كتاب",
+        "4": "شجرة"
+      },
+      "correct_option": "2",
+      "category": "Arabic"
+    },
+    {
+      "question": "What is the Arabic meaning of the English word 'car'?",
+      "options": {
+        "1": "سيارة",
+        "2": "حافلة",
+        "3": "قطار",
+        "4": "طائرة"
+      },
+      "correct_option": "1",
+      "category": "Arabic"
+    },
+    {
+      "question": "What is the Arabic meaning of the English word 'school'?",
+      "options": {
+        "1": "مستشفى",
+        "2": "مدرسة",
+        "3": "مسجد",
+        "4": "مكتب"
+      },
+      "correct_option": "2",
+      "category": "Arabic"
+    },
+    {
+      "question": "What is the Arabic meaning of the English word 'apple'?",
+      "options": {
+        "1": "برتقال",
+        "2": "موز",
+        "3": "تفاحة",
+        "4": "عنب"
+      },
+      "correct_option": "3",
+      "category": "Arabic"
+    },
+    {
+      "question": "What is the Arabic meaning of the English word 'bread'?",
+      "options": {
+        "1": "ماء",
+        "2": "خبز",
+        "3": "حليب",
+        "4": "لحم"
+      },
+      "correct_option": "2",
+      "category": "Arabic"
+    },
+    {
+      "question": "What is the Arabic meaning of the English word 'dog'?",
+      "options": {
+        "1": "قطة",
+        "2": "كلب",
+        "3": "حصان",
+        "4": "طائر"
+      },
+      "correct_option": "2",
+      "category": "Arabic"
+    },
+    {
+      "question": "What is the Arabic meaning of the English word 'teacher'?",
+      "options": {
+        "1": "طبيب",
+        "2": "محامي",
+        "3": "معلم",
+        "4": "مهندس"
+      },
+      "correct_option": "3",
+      "category": "Arabic"
+    },
+    {
+      "question": "What is the Arabic meaning of the English word 'father'?",
+      "options": {
+        "1": "أم",
+        "2": "أخ",
+        "3": "أب",
+        "4": "ابن"
+      },
+      "correct_option": "3",
+      "category": "Arabic"
+    },
+    {
+      "question": "What is the Arabic meaning of the English word 'mother'?",
+      "options": {
+        "1": "أخت",
+        "2": "أم",
+        "3": "جد",
+        "4": "جدة"
+      },
+      "correct_option": "2",
+      "category": "Arabic"
+    },
+    {
+      "question": "What is the Arabic meaning of the English word 'book'?",
+      "options": {
+        "1": "قلم",
+        "2": "ورقة",
+        "3": "كتاب",
+        "4": "كرسي"
+      },
+      "correct_option": "3",
+      "category": "Arabic"
+    },
+    {
+      "question": "What is the Hindi meaning of the English word 'book'?",
+      "options": {
+        "1": "क़लम",
+        "2": "किताब",
+        "3": "मेज़",
+        "4": "कुर्सी"
+      },
+      "correct_option": "2",
+      "category": "Hindi"
+    },
+    {
+      "question": "What is the Hindi meaning of the English word 'water'?",
+      "options": {
+        "1": "पानी",
+        "2": "हवा",
+        "3": "चाँद",
+        "4": "सूरज"
+      },
+      "correct_option": "1",
+      "category": "Hindi"
+    },
+    {
+      "question": "What is the Hindi meaning of the English word 'friend'?",
+      "options": {
+        "1": "दोस्त",
+        "2": "दुश्मन",
+        "3": "भाई",
+        "4": "शिक्षक"
+      },
+      "correct_option": "1",
+      "category": "Hindi"
+    },
+    {
+      "question": "What is the Hindi meaning of the English word 'thank you'?",
+      "options": {
+        "1": "नमस्ते",
+        "2": "धन्यवाद",
+        "3": "माफ कीजिये",
+        "4": "स्वागत है"
+      },
+      "correct_option": "2",
+      "category": "Hindi"
+    },
+    {
+      "question": "What is the Hindi meaning of the English word 'goodbye'?",
+      "options": {
+        "1": "अलविदा",
+        "2": "नमस्ते",
+        "3": "धन्यवाद",
+        "4": "स्वागत है"
+      },
+      "correct_option": "1",
+      "category": "Hindi"
+    },
+    {
+      "question": "What is the Hindi meaning of the English word 'sun'?",
+      "options": {
+        "1": "चाँद",
+        "2": "सूरज",
+        "3": "तारा",
+        "4": "रात"
+      },
+      "correct_option": "2",
+      "category": "Hindi"
+    },
+    {
+      "question": "What is the Hindi meaning of the English word 'moon'?",
+      "options": {
+        "1": "सूरज",
+        "2": "चाँद",
+        "3": "तारा",
+        "4": "रात"
+      },
+      "correct_option": "2",
+      "category": "Hindi"
+    },
+    {
+      "question": "What is the Hindi meaning of the English word 'tree'?",
+      "options": {
+        "1": "पौधा",
+        "2": "पेड़",
+        "3": "झाड़ी",
+        "4": "फूल"
+      },
+      "correct_option": "2",
+      "category": "Hindi"
+    },
+    {
+      "question": "What is the Hindi meaning of the English word 'color'?",
+      "options": {
+        "1": "रंग",
+        "2": "सफेद",
+        "3": "काला",
+        "4": "लाल"
+      },
+      "correct_option": "1",
+      "category": "Hindi"
+    },
+    {
+      "question": "What is the Hindi meaning of the English word 'school'?",
+      "options": {
+        "1": "स्कूल",
+        "2": "अस्पताल",
+        "3": "पुस्तकालय",
+        "4": "बाजार"
+      },
+      "correct_option": "1",
+      "category": "Hindi"
+    },
+    {
+      "question": "What is the French meaning of the English word 'book'?",
+      "options": {
+        "1": "Stylo",
+        "2": "Livre",
+        "3": "Table",
+        "4": "Chaise"
+      },
+      "correct_option": "2",
+      "category": "French"
+    },
+    {
+      "question": "What is the French meaning of the English word 'hello'?",
+      "options": {
+        "1": "Bonjour",
+        "2": "Merci",
+        "3": "Au revoir",
+        "4": "Oui"
+      },
+      "correct_option": "1",
+      "category": "French"
+    },
+    {
+      "question": "What is the French meaning of the English word 'thank you'?",
+      "options": {
+        "1": "Merci",
+        "2": "Bonjour",
+        "3": "Au revoir",
+        "4": "S'il vous plaît"
+      },
+      "correct_option": "1",
+      "category": "French"
+    },
+    {
+      "question": "What is the French meaning of the English word 'yes'?",
+      "options": {
+        "1": "Oui",
+        "2": "Non",
+        "3": "Peut-être",
+        "4": "Jamais"
+      },
+      "correct_option": "1",
+      "category": "French"
+    },
+    {
+      "question": "What is the French meaning of the English word 'no'?",
+      "options": {
+        "1": "Oui",
+        "2": "Non",
+        "3": "Peut-être",
+        "4": "Jamais"
+      },
+      "correct_option": "2",
+      "category": "French"
+    },
+    {
+      "question": "What is the French meaning of the English word 'please'?",
+      "options": {
+        "1": "S'il vous plaît",
+        "2": "Bonjour",
+        "3": "Merci",
+        "4": "Au revoir"
+      },
+      "correct_option": "1",
+      "category": "French"
+    },
+    {
+      "question": "What is the French meaning of the English word 'goodbye'?",
+      "options": {
+        "1": "Au revoir",
+        "2": "Bonjour",
+        "3": "Merci",
+        "4": "Oui"
+      },
+      "correct_option": "1",
+      "category": "French"
+    },
+    {
+      "question": "What is the French meaning of the English word 'water'?",
+      "options": {
+        "1": "Eau",
+        "2": "Feu",
+        "3": "Terre",
+        "4": "Vent"
+      },
+      "correct_option": "1",
+      "category": "French"
+    },
+    {
+      "question": "What is the French meaning of the English word 'moon'?",
+      "options": {
+        "1": "Lune",
+        "2": "Soleil",
+        "3": "Étoile",
+        "4": "Nuit"
+      },
+      "correct_option": "1",
+      "category": "French"
+    },
+    {
+      "question": "What is the French meaning of the English word 'sun'?",
+      "options": {
+        "1": "Soleil",
+        "2": "Lune",
+        "3": "Étoile",
+        "4": "Nuit"
+      },
+      "correct_option": "1",
+      "category": "French"
+    },
+    {
+      "question": "What is the Chinese meaning of the English word 'book'?",
+      "options": {
+        "1": "笔",
+        "2": "书",
+        "3": "桌子",
+        "4": "椅子"
+      },
+      "correct_option": "2",
+      "category": "Chinese"
+    },
+    {
+      "question": "What is the Chinese meaning of the English word 'water'?",
+      "options": {
+        "1": "水",
+        "2": "火",
+        "3": "土",
+        "4": "风"
+      },
+      "correct_option": "1",
+      "category": "Chinese"
+    },
+    {
+      "question": "What is the Chinese meaning of the English word 'friend'?",
+      "options": {
+        "1": "朋友",
+        "2": "敌人",
+        "3": "兄弟",
+        "4": "老师"
+      },
+      "correct_option": "1",
+      "category": "Chinese"
+    },
+    {
+      "question": "What is the Chinese meaning of the English word 'thank you'?",
+      "options": {
+        "1": "谢谢",
+        "2": "再见",
+        "3": "对不起",
+        "4": "欢迎"
+      },
+      "correct_option": "1",
+      "category": "Chinese"
+    },
+    {
+      "question": "What is the Chinese meaning of the English word 'goodbye'?",
+      "options": {
+        "1": "再见",
+        "2": "你好",
+        "3": "谢谢",
+        "4": "对不起"
+      },
+      "correct_option": "1",
+      "category": "Chinese"
+    },
+    {
+      "question": "What is the Chinese meaning of the English word 'sun'?",
+      "options": {
+        "1": "太阳",
+        "2": "月亮",
+        "3": "星星",
+        "4": "晚上"
+      },
+      "correct_option": "1",
+      "category": "Chinese"
+    },
+    {
+      "question": "What is the Chinese meaning of the English word 'moon'?",
+      "options": {
+        "1": "月亮",
+        "2": "太阳",
+        "3": "星星",
+        "4": "白天"
+      },
+      "correct_option": "1",
+      "category": "Chinese"
+    },
+    {
+      "question": "What is the Chinese meaning of the English word 'tree'?",
+      "options": {
+        "1": "树",
+        "2": "花",
+        "3": "草",
+        "4": "枝"
+      },
+      "correct_option": "1",
+      "category": "Chinese"
+    },
+    {
+      "question": "What is the Chinese meaning of the English word 'color'?",
+      "options": {
+        "1": "颜色",
+        "2": "白色",
+        "3": "黑色",
+        "4": "红色"
+      },
+      "correct_option": "1",
+      "category": "Chinese"
+    },
+    {
+      "question": "What is the Chinese meaning of the English word 'school'?",
+      "options": {
+        "1": "学校",
+        "2": "医院",
+        "3": "图书馆",
+        "4": "商店"
+      },
+      "correct_option": "1",
+      "category": "Chinese"
+    },
+  
+
+      {
+          "question": "What is the Italian meaning of the English word 'book'?",
+          "options": {
+              "1": "penna",
+              "2": "tavolo",
+              "3": "libro",
+              "4": "sedia"
+          },
+          "correct_option": "3",
+          "category": "Italian"
+      },
+      {
+          "question": "What is the Italian meaning of the English word 'water'?",
+          "options": {
+              "1": "acqua",
+              "2": "aria",
+              "3": "luna",
+              "4": "sole"
+          },
+          "correct_option": "1",
+          "category": "Italian"
+      },
+      {
+          "question": "What is the Italian meaning of the English word 'friend'?",
+          "options": {
+              "1": "amico",
+              "2": "nemico",
+              "3": "fratello",
+              "4": "insegnante"
+          },
+          "correct_option": "1",
+          "category": "Italian"
+      },
+      {
+          "question": "What is the Italian meaning of the English word 'thank you'?",
+          "options": {
+              "1": "arrivederci",
+              "2": "grazie",
+              "3": "scusa",
+              "4": "benvenuto"
+          },
+          "correct_option": "2",
+          "category": "Italian"
+      },
+      {
+          "question": "What is the Italian meaning of the English word 'goodbye'?",
+          "options": {
+              "1": "arrivederci",
+              "2": "stammi bene",
+              "3": "ciao",
+              "4": "no"
+          },
+          "correct_option": "1",
+          "category": "Italian"
+      },
+      {
+          "question": "What is the Italian meaning of the English word 'sun'?",
+          "options": {
+              "1": "luna",
+              "2": "sole",
+              "3": "stella",
+              "4": "luce"
+          },
+          "correct_option": "2",
+          "category": "Italian"
+      },
+      {
+          "question": "What is the Italian meaning of the English word 'moon'?",
+          "options": {
+              "1": "luce",
+              "2": "luna",
+              "3": "notte",
+              "4": "giorno"
+          },
+          "correct_option": "2",
+          "category": "Italian"
+      },
+      {
+          "question": "What is the Italian meaning of the English word 'tree'?",
+          "options": {
+              "1": "pianta",
+              "2": "albero",
+              "3": "cespuglio",
+              "4": "fiore"
+          },
+          "correct_option": "2",
+          "category": "Italian"
+      },
+      {
+          "question": "What is the Italian meaning of the English word 'color'?",
+          "options": {
+              "1": "colore",
+              "2": "bianco",
+              "3": "nero",
+              "4": "rosso"
+          },
+          "correct_option": "1",
+          "category": "Italian"
+      },
+      {
+          "question": "What is the Italian meaning of the English word 'car'?",
+          "options": {
+              "1": "bicicletta",
+              "2": "aereo",
+              "3": "auto",
+              "4": "treno"
+          },
+          "correct_option": "3",
+          "category": "Italian"
+        },
+      {
+          "question": "What is the German meaning of the English word 'book'?",
+          "options": {
+              "1": "Stift",
+              "2": "Tisch",
+              "3": "Buch",
+              "4": "Stuhl"
+          },
+          "correct_option": "3",
+          "category": "German"
+      },
+      {
+          "question": "What is the German meaning of the English word 'water'?",
+          "options": {
+              "1": "Wasser",
+              "2": "Luft",
+              "3": "Mond",
+              "4": "Sonne"
+          },
+          "correct_option": "1",
+          "category": "German"
+      },
+      {
+          "question": "What is the German meaning of the English word 'friend'?",
+          "options": {
+              "1": "Freund",
+              "2": "Feind",
+              "3": "Bruder",
+              "4": "Lehrer"
+          },
+          "correct_option": "1",
+          "category": "German"
+      },
+      {
+          "question": "What is the German meaning of the English word 'thank you'?",
+          "options": {
+              "1": "Auf Wiedersehen",
+              "2": "Danke",
+              "3": "Entschuldigung",
+              "4": "Willkommen"
+          },
+          "correct_option": "2",
+          "category": "German"
+      },
+      {
+          "question": "What is the German meaning of the English word 'goodbye'?",
+          "options": {
+              "1": "Auf Wiedersehen",
+              "2": "Mach's gut",
+              "3": "Hallo",
+              "4": "Nein"
+          },
+          "correct_option": "1",
+          "category": "German"
+      },
+      {
+          "question": "What is the German meaning of the English word 'sun'?",
+          "options": {
+              "1": "Mond",
+              "2": "Sonne",
+              "3": "Stern",
+              "4": "Licht"
+          },
+          "correct_option": "2",
+          "category": "German"
+      },
+      {
+          "question": "What is the German meaning of the English word 'moon'?",
+          "options": {
+              "1": "Licht",
+              "2": "Mond",
+              "3": "Nacht",
+              "4": "Tag"
+          },
+          "correct_option": "2",
+          "category": "German"
+      },
+      {
+          "question": "What is the German meaning of the English word 'tree'?",
+          "options": {
+              "1": "Pflanze",
+              "2": "Baum",
+              "3": "Busch",
+              "4": "Blume"
+          },
+          "correct_option": "2",
+          "category": "German"
+      },
+      {
+          "question": "What is the German meaning of the English word 'color'?",
+          "options": {
+              "1": "Farbe",
+              "2": "Weiß",
+              "3": "Schwarz",
+              "4": "Rot"
+          },
+          "correct_option": "1",
+          "category": "German"
+      },
+      {
+          "question": "What is the German meaning of the English word 'car'?",
+          "options": {
+              "1": "Fahrrad",
+              "2": "Flugzeug",
+              "3": "Auto",
+              "4": "Zug"
+          },
+          "correct_option": "3",
+          "category": "German"
+      }
+    ]
+  }
